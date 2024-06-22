@@ -42,12 +42,13 @@ The normal distribution, also known as the Gaussian distribution, is a continuou
 
 The probability density function (PDF) of a normal distribution is given by:
 
-\[ f(x | \mu, \sigma) = \frac{1}{\sigma \sqrt{2\pi}} e^{ -\frac{1}{2} \left( \frac{x - \mu}{\sigma} \right)^2 } \]
+$\ f(x | \mu, \sigma) = \frac{1}{\sigma \sqrt{2\pi}} e^{ -\frac{1}{2} \left( \frac{x - \mu}{\sigma} \right)^2 } \$
+
 
 where:
-- \( \mu \) is the mean,
-- \( \sigma \) is the standard deviation,
-- \( x \) is the value of the random variable.
+- $\mu$ is the mean,
+- $\sigma$ is the standard deviation,
+- $x$ is the value of the random variable.
 
 ## Standard Normal Distribution
 
@@ -59,18 +60,18 @@ The standard normal distribution is a special case of the normal distribution wi
 
 The Z-score is a measure that describes a value's position relative to the mean of a group of values, measured in terms of standard deviations from the mean. It is calculated using the formula:
 
-\[ Z = \frac{X - \mu}{\sigma} \]
+$\ Z = \frac{X - \mu}{\sigma} \$
 
 where:
-- \( X \) is the value,
-- \( \mu \) is the mean,
-- \( \sigma \) is the standard deviation.
+- $X$ is the value,
+- $\mu$ is the mean,
+- $\sigma$ is the standard deviation.
 
 ### Formula
 
 The probability density function (PDF) for the standard normal distribution simplifies to:
 
-\[ f(z) = \frac{1}{\sqrt{2\pi}} e^{ -\frac{z^2}{2} } \]
+$\ f(z) = \frac{1}{\sqrt{2\pi}} e^{ -\frac{z^2}{2} } \$
 
 ## Standard Normal Table
 
