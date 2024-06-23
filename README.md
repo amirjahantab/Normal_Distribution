@@ -54,7 +54,7 @@ where:
 
 ### Definition
 
-The standard normal distribution is a special case of the normal distribution with a mean (\(\mu\)) of 0 and a standard deviation (\(\sigma\)) of 1. It is used as a reference to understand and compare different normal distributions.
+The standard normal distribution is a special case of the normal distribution with a mean $\mu$ of 0 and a standard deviation $\sigma$ of 1. It is used as a reference to understand and compare different normal distributions.
 
 ### Z-Score
 
